@@ -26,7 +26,7 @@ meta:                                 # If you have cover image
 ---
 
 ## Outline of regime
-The assumption is that base nutrition (macro and micro), is already optimised, protein intake is above 1.6g / kg body weight, supplementation with vitamin D and all electrolytes and minerals are all already in place. Tools such as [Cronometer](https://cronometer.com/) for food tracking and [Nutrient Optimiser](https://nutrientoptimiser.com/) are useful for this and so this subject is out of scope for this article
+The assumption is that base nutrition (macro and micro), is already optimised, protein intake is above 1.6g / kg body weight, supplementation with vitamin D, creatine and all electrolytes and minerals are all already in place. Tools such as [Cronometer](https://cronometer.com/) for food tracking and [Nutrient Optimiser](https://nutrientoptimiser.com/) are useful for this and so this subject is out of scope for this article
 
 The 5 most useful supplements for help with (muscoskeletal) injury are [Glutamine](https://examine.com/supplements/glutamine/),
 [Arginine](https://examine.com/supplements/arginine/), [Citruline](https://examine.com/supplements/citrulline/), and [HMB](https://examine.com/supplements/hmb/),
@@ -45,7 +45,15 @@ A brief summary of effects comes to:
   * Conditionally essential amino acid used extensively in wound repair
   * Increased requirements for glutamine pull it from the gut
 
+## Example regimes
+### Empiral example
+While the individual pieces of dosage are derived from various studies, this combination hasn`t been studied, and instead is a personal use log. 
 
+| Timing | Supplement list | Notes | 
+| ------ | --------------- |-------|
+| Morning| Arginine 6g in 750 ml water|First thing upon waking, at least an hour before eating after|
+| engine | engine to be used for processing templates. Handlebars is the default. |
+| ext    | extension to be used for dest files. |
 
 
 ## Tables
