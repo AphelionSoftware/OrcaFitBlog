@@ -114,9 +114,9 @@ Dose response: A minimum of 100mg/kg bw was effective in rats [Dose-effect of di
 
 ## References
 ### Arginine
-[Role of Arginine and Omega-3 Fatty Acids in Wound Healing and Infection](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4217020/)
-[Dose-effect of dietary L-arginine supplementation on burn wound healing in rats.](https://www.ncbi.nlm.nih.gov/pubmed/11717955/)
-[The effect of different doses of an arginine-containing supplement on the healing of pressure ulcers.](https://www.ncbi.nlm.nih.gov/pubmed/22399084/)
+* [Role of Arginine and Omega-3 Fatty Acids in Wound Healing and Infection](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4217020/)
+* [Dose-effect of dietary L-arginine supplementation on burn wound healing in rats.](https://www.ncbi.nlm.nih.gov/pubmed/11717955/)
+* [The effect of different doses of an arginine-containing supplement on the healing of pressure ulcers.](https://www.ncbi.nlm.nih.gov/pubmed/22399084/)
 ### Glutamine
 ### HMB
 ### Citrulline
