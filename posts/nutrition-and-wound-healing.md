@@ -26,9 +26,9 @@ meta:                                 # If you have cover image
     content: /images/posts/my-first-post.png 
 ---
 
-## Very concise summary of what helps, and what doesn't in these docs:
-[Nutrition and wound healing]("/documents/Nutrition_and_Wound_Healing.7.pdf")
-[Nutrition and wound healing - an update]("/documents/Nutrition_and_Wound_Healing__An_Update.9.pdf")
+#### Very concise summary of what helps, and what doesn't in these 2 docs:
+* [Nutrition and wound healing](/documents/Nutrition_and_Wound_Healing.7.pdf)
+* [Nutrition and wound healing - an update](/documents/Nutrition_and_Wound_Healing__An_Update.9.pdf)
 * Get enough protein/carbs while healing. Pretty self-evident. Then
 
 * Arginine in doses of least 30 g (I've found elsewhere 1g/kg) helps a LOT - but this is mostly intravenous, and more than ~6g per dose is not tolerated by the digestive system, and also needs to be diluted at 115 ml / g (so 6 g in ~ 700 ml water)
