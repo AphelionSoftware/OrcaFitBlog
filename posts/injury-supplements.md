@@ -45,35 +45,29 @@ A brief summary of effects comes to:
   * Conditionally essential amino acid used extensively in wound repair
   * Increased requirements for glutamine pull it from the gut
 
+Also referenced:
+* [Psyllium Husk](https://examine.com/supplements/psyllium/)
+
 ## Example regimes
-### Empiral example
-While the individual pieces of dosage are derived from various studies, this combination hasn`t been studied, and instead is a personal use log. 
+### Empiral example 1
+While the individual pieces of dosage are derived from various studies, this combination hasn`t been studied, and instead is a personal use log.
+Two of these ingredients taste pretty damn awful, so the fish oil was taken as [Nordic fish oil](https://www.amazon.co.uk/Nordic-Oil-Strength-Flavoured-Tested/dp/B00M772GFG/ref=asc_df_B00M772GFG/?tag=bingshoppinga-21&linkCode=df0&hvadid={creative}&hvpos={adposition}&hvnetw=o&hvrand={random}&hvpone=&hvptwo=&hvqmt=e&hvdev=c&hvdvcmdl={devicemodel}&hvlocint=&hvlocphy=&hvtargid=pla-4584207578221607&psc=1) and the arginine can combined with [psyllium husk](https://www.amazon.co.uk/Organic-Blond-Psyllium-Husk-500g/dp/B06XTHQM7S/ref=sr_1_2_sspa?crid=2AQXOGLHOERBV&keywords=psyllium+husk+powder&qid=1556025469&s=drugstore&sprefix=psyl%2Cdrugstore%2C296&sr=1-2-spons&psc=1) (one tablespoon) to cut the taste.
+In addition, the 6g dose of arginine may cause digestive distress, so it's often good to start with 2g (in the same amount of water) and increase to as high as you can tolerate
 
 | Timing | Supplement list | Notes | 
 | ------ | --------------- |-------|
-| Morning| Arginine 6g in 750 ml water|First thing upon waking, at least an hour before eating after|
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
+| Morning| Arginine 6g in 750 ml water|First thing upon waking, then wait at least an hour before eating after|
+| Breakfast|Protein shake 40g (USN Diet Fuel), glutamine 10g, creatine 10g, citrulline 2g, Potassium Gluconate 1g|Ensure at least 1 hour break|
+| Breakfast| HMB 1000mg| Listed separately as it is taken as capsules|
+| Breakfast| Fish Oil 15 ml| Listed separately as it is taken as liquid|
+| Lunch| Glutamine 10g| Dissolved in water, taken before lunch|
+| Lunch| HMB 1000mg| Listed separately as it is taken as capsules|
+| Late afternoon / dinner| Protein shake 40g (USN Diet Fuel), glutamine 10g, creatine 10g, citrulline 2g, Potassium Gluconate 1g|Protein powder/potassium can be excluded if not necessary for getting protein/electrolytes up|
+| Late afternoon / dinner| HMB 1000mg| Listed separately as it is taken as capsules|
+| Pre bed time|Arginine 6g in 750 ml water|At least an hour after dinner
+| Pre bed time|Fish Oil 15 ml| Listed separately as it is taken as liquid|
 
-
-## Tables
-
-| Option | Description |
-| ------ | ----------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
-
-Right aligned columns
-
-| Option | Description |
-| ------:| -----------:|
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
-
-
-
+### Glutamine and Arginine - 
 ## References
 ### Arginine
 ### Glutamine
