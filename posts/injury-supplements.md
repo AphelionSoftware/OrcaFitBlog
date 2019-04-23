@@ -45,6 +45,14 @@ A brief summary of effects comes to:
   * Conditionally essential amino acid used extensively in wound repair
   * Increased requirements for glutamine pull it from the gut
 
+Effective dosages:
+|Supplement|Minimum effect seen at|Intermediate     |Optimal     |Maximum Effective|Toxicity seen at|
+|----------|----------------------|-----------------|------------|-----------------|----------------|
+|Arginine  | 100 mg / kg          | 9 g / day       | 17 g / day | > 20 (unknown)  | None seen      |
+|Citrulline| ?                    | 2 to 5 g / day  | ?          | ?               | None seen      |
+|Glutamine | ?                    | 10 to 10 g / day| ?          | ?               | None seen      |
+|HMB       | ?                    | 1 to 3 g / day  | ?          | ?               | None seen      |
+
 Also referenced:
 * [Psyllium Husk](https://examine.com/supplements/psyllium/)
 
