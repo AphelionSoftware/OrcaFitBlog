@@ -10,7 +10,7 @@ module.exports = {
   },
   ads,
   logo: {
-    name: 'ktquez-play-logo',
+    name: 'visual-intelligence-logo',
     ext: 'png',
     alt: 'Logo in 3 colors in play format'
   },
@@ -28,7 +28,7 @@ module.exports = {
         </a>`,
   footer: {
     nav1: {
-      title: 'Vue Visually',
+      title: 'Visual Intelligence',
       items: [
         {
           label: 'ABOUT',
@@ -43,12 +43,25 @@ module.exports = {
           path: '/contact/'
         }
       ]
+    },
+    nav2: {
+      title: 'Community',
+      items: [
+        {
+          label: 'FB GROUP',
+          link: 'https://www.facebook.com/groups/vuevg'
+        }
+      ]
     }
   },
   social: [
     {
+      name: 'twitter',
+      link: `https://www.twitter.com/vue-visually`
+    },
+    {
       name: 'github',
-      link: `https://github.com/vue-visually/VueVG`
+      link: `https://www.github.com/vue-visually`
     }
   ]
 }
