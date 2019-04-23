@@ -46,12 +46,13 @@ A brief summary of effects comes to:
   * Increased requirements for glutamine pull it from the gut
 
 Effective dosages:
-|Supplement|Minimum effect seen at|Intermediate     |Optimal     |Maximum Effective|Toxicity seen at|
-|----------|----------------------|-----------------|------------|-----------------|----------------|
-|Arginine  | 100 mg / kg          | 9 g / day       | 17 g / day | > 20 (unknown)  | None seen      |
-|Citrulline| ?                    | 2 to 5 g / day  | ?          | ?               | None seen      |
-|Glutamine | ?                    | 10 to 10 g / day| ?          | ?               | None seen      |
-|HMB       | ?                    | 1 to 3 g / day  | ?          | ?               | None seen      |
+|Supplement|Minimum effect seen at|Intermediate     |Optimal         |Maximum Effective|Toxicity seen at|
+|----------|----------------------|-----------------|----------------|-----------------|----------------|
+|Arginine  | 100 mg / kg          | 9 g / day       | 17 g / day     | > 20 (unknown)  | None seen      |
+|Citrulline| ?                    | 2 to 5 g / day  | ?              | ?               | None seen      |
+|Glutamine | ?                    | 10 to 20 g / day| ?              | ?               | None seen      |
+|HMB       | ?                    | 1 to 3 g / day  | ?              |                 | None seen      |
+|Omega-3   | ?                    | 0.1 mg / kg bw  | 0.3 mg / kg bw | ?               | None seen      |
 
 Also referenced:
 * [Psyllium Husk](https://examine.com/supplements/psyllium/)
@@ -81,10 +82,10 @@ In addition, the 6g dose of arginine may cause digestive distress, so it's often
 See summary at [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4217020/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4217020/)
 __NB: Do not substitute plant based Omega-3. Fish oil only, and preferably fresh not capsules. Reference to follow__
 Key quotes:
-* Both arginine and fish oils have independent benefits, but the combination appears to be much more effective. 
-* Arginine is a normal dietary ingredient that can be given in oral doses of 2–3 times the normal dietary intake without evidence of significant toxicity.
-* When given orally, arginine is absorbed quickly, varying between 21% and 68% with a half-life of 1.5–2 h after an oral dose of 6 g.
-* Arginine supplementation is, perhaps, best known for its beneficial effect on the healing of cutaneous wounds,11 but it also improves the healing of fractures (see [Oral arginine for wound healing](https://www.ncbi.nlm.nih.gov/pubmed/16416369/)) - "
+> Both arginine and fish oils have independent benefits, but the combination appears to be much more effective. 
+> Arginine is a normal dietary ingredient that can be given in oral doses of 2–3 times the normal dietary intake without evidence of significant toxicity.
+> When given orally, arginine is absorbed quickly, varying between 21% and 68% with a half-life of 1.5–2 h after an oral dose of 6 g.
+> Arginine supplementation is, perhaps, best known for its beneficial effect on the healing of cutaneous wounds,11 but it also improves the healing of fractures (see [Oral arginine for wound healing](https://www.ncbi.nlm.nih.gov/pubmed/16416369/)) - "
 Radiographs showed significantly more healing in the treatment groups (2 weeks, 10/15; 4 weeks, 11/15) than in the control group (3/14). The mechanical energy necessary for femur failure was significantly higher in the 4-week treatment group than in the control group (P < 0.05)"
 
 #### Arginine effective doses recorded in studies referenced from this review
