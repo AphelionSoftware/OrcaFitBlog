@@ -12,23 +12,23 @@ module.exports = {
   logo: {
     name: 'visual-intelligence-logo',
     ext: 'png',
-    alt: 'Visual Intelligence'
+    alt: 'Orca Fit'
   },
   share: {
-    facebookCaption: 'Visual Intelligence',
+    facebookCaption: 'Orca Fit',
     twitterVia: 'vuevg',
   },
   newsletter: {
     provider: 'mailchimp',
     action: ''
   },
-  copy: `2018 © Visual Intelligence - 
+  copy: `2018 © Orca Fit - 
         <a href="https://vuepress.vuejs.org/" rel="noopener" target="_blank">
           HECHO CON VUEPRESS
         </a>`,
   footer: {
     nav1: {
-      title: 'Visual Intelligence',
+      title: 'Orca Fit',
       items: [
         {
           label: 'ACERCA',

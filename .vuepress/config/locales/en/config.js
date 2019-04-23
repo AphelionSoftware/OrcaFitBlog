@@ -28,7 +28,7 @@ module.exports = {
         </a>`,
   footer: {
     nav1: {
-      title: 'Visual Intelligence',
+      title: 'Orca Fit',
       items: [
         {
           label: 'ABOUT',
