@@ -48,6 +48,8 @@ A brief summary of effects comes to:
 Also referenced:
 * [Psyllium Husk](https://examine.com/supplements/psyllium/)
 
+A good summary of arginine and glutamine: [Arginine and glutamine in wound healing](https://www.slideshare.net/reneehin23/arginine-and-glutamine-in-wound-healing)
+
 ## Example regimes
 ### Empiral example 1
 While the individual pieces of dosage are derived from various studies, this combination hasn`t been studied, and instead is a personal use log.
@@ -103,6 +105,9 @@ Dose response: A minimum of 100mg/kg bw was effective in rats [Dose-effect of di
 
 ## References
 ### Arginine
+[Role of Arginine and Omega-3 Fatty Acids in Wound Healing and Infection](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4217020/)
+[Dose-effect of dietary L-arginine supplementation on burn wound healing in rats.](https://www.ncbi.nlm.nih.gov/pubmed/11717955/)
+[The effect of different doses of an arginine-containing supplement on the healing of pressure ulcers.](https://www.ncbi.nlm.nih.gov/pubmed/22399084/)
 ### Glutamine
 ### HMB
 ### Citrulline
