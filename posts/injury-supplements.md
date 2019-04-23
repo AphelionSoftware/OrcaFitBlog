@@ -84,7 +84,8 @@ Key quotes:
 * Both arginine and fish oils have independent benefits, but the combination appears to be much more effective. 
 * Arginine is a normal dietary ingredient that can be given in oral doses of 2–3 times the normal dietary intake without evidence of significant toxicity.
 * When given orally, arginine is absorbed quickly, varying between 21% and 68% with a half-life of 1.5–2 h after an oral dose of 6 g.
-* Arginine supplementation is, perhaps, best known for its beneficial effect on the healing of cutaneous wounds,11 but it also improves the healing of fractures (see [Oral arginine for wound healing](https://www.ncbi.nlm.nih.gov/pubmed/16416369/))
+* Arginine supplementation is, perhaps, best known for its beneficial effect on the healing of cutaneous wounds,11 but it also improves the healing of fractures (see [Oral arginine for wound healing](https://www.ncbi.nlm.nih.gov/pubmed/16416369/)) - "
+Radiographs showed significantly more healing in the treatment groups (2 weeks, 10/15; 4 weeks, 11/15) than in the control group (3/14). The mechanical energy necessary for femur failure was significantly higher in the 4-week treatment group than in the control group (P < 0.05)"
 
 #### Arginine effective doses recorded in studies referenced from this review
 |Dosage|Study|Additional Notes|
