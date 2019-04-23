@@ -34,7 +34,7 @@ The 5 most useful supplements for help with (muscoskeletal) injury are [Glutamin
 
 A brief summary of effects comes to:
 * Arginine
-  * Increase of growth hormone and IGF (appears to be limited to IV and high single dose empty stomach intake)
+  * Increase of growth hormone and IGF (either IV or high single dose empty stomach intake)
   * Release of NOx
 * Citrulline
   * Release of NOx (note that using citrulline and arginine together may be synergistic as they are proessed in the same pathway and converted between each other - no studies referenced here yet)
