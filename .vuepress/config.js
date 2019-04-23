@@ -9,7 +9,7 @@ module.exports = {
   head,
   themeConfig,
   base: '/',
-  title: `Vue Visually`,  
+  title: `Orca Fit`,  
   ga: `MY TRACKING CODE GOOGLE ANALYTICS`,
   evergreen: true,  // For modern browsers
   serviceWorker: true,

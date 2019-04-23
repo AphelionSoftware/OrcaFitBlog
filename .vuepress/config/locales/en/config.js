@@ -22,7 +22,7 @@ module.exports = {
     provider: 'mailchimp',
     action: ''
   },
-  copy: `2018 © Vue Visually - 
+  copy: `2018 © Orca Fit - 
         <a href="https://vuepress.vuejs.org/" rel="noopener" target="_blank">
           MADE WITH VUEPRESS
         </a>`,
