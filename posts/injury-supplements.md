@@ -34,7 +34,7 @@ The 5 most useful supplements for help with (muscoskeletal) injury are [Glutamin
 
 A brief summary of effects comes to:
 * Arginine
-  * Increase of growth hormone and IGF
+  * Increase of growth hormone and IGF (appears to be limited to IV and high single dose empty stomach intake)
   * Release of NOx
 * Citrulline
   * Release of NOx (note that using citrulline and arginine together may be synergistic as they are proessed in the same pathway and converted between each other - no studies referenced here yet)
@@ -42,7 +42,8 @@ A brief summary of effects comes to:
   * Not in itself useful for injury recovery
   * Prevents loss of muscle mass
 * Glutamine
-  * 
+  * Conditionally essential amino acid used extensively in wound repair
+  * Increased requirements for glutamine pull it from the gut
 
 
 
@@ -66,51 +67,6 @@ Right aligned columns
 
 
 ## References
-
-The killer feature of `markdown-it` is very effective support of
-[syntax plugins](https://www.npmjs.org/browse/keyword/markdown-it-plugin).
-
-
-### [Footnotes](https://github.com/markdown-it/markdown-it-footnote)
-
-Footnote 1 link[^first].
-
-Footnote 2 link[^second].
-
-Inline footnote^[Text of inline footnote] definition.
-
-Duplicated footnote reference[^second].
-
-[^first]: Footnote **can have markup**
-
-    and multiple paragraphs.
-
-[^second]: Footnote text.
-
-
-### [Definition lists](https://github.com/markdown-it/markdown-it-deflist)
-
-Term 1
-
-:   Definition 1
-with lazy continuation.
-
-Term 2 with *inline markup*
-
-:   Definition 2
-
-        { some code, part of Definition 2 }
-
-    Third paragraph of definition 2.
-
-_Compact style:_
-
-Term 1
-  ~ Definition 1
-
-Term 2
-  ~ Definition 2a
-  ~ Definition 2b
-
-
-### [Abbreviations](https://github.com/markdown-it/markdown-it-abbr)
+### Arginine
+### Glutamine
+###
