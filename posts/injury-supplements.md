@@ -26,6 +26,7 @@ meta:                                 # If you have cover image
 ---
 ## Recent updates
 [The influence of oral arginine on frature healing (Full Text)](/documents/OralArginineFractureHealingAnimalStudy.pdf)
+[Malnutrition and Fracture Healing: Are Specific Deficiencies in Amino Acids Important in Nonunion Development?](https://www.ncbi.nlm.nih.gov/pubmed/30384490)
 ## Outline of regime
 The assumption is that base nutrition (macro and micro), is already optimised, protein intake is above 1.6g / kg body weight, supplementation with vitamin D, creatine and all electrolytes and minerals are all already in place. Tools such as [Cronometer](https://cronometer.com/) for food tracking and [Nutrient Optimiser](https://nutrientoptimiser.com/) are useful for this and so this subject is out of scope for this article
 
