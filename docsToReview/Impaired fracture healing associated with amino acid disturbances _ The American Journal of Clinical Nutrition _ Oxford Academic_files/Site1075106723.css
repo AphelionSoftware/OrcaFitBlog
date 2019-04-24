@@ -1,0 +1,78 @@
+
+ /*SITE SPECIFIC CSS*/
+
+.journal-bg {
+  background-color: #fafafa; 
+}
+.navbar {
+	background-color: #333333;
+}
+
+
+.journal-header .journal-logo {
+    width: 450px;
+}
+.journal-header .society-logo {
+    width: 150px; 
+}
+.journal-header .center-inner-row {
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+
+.featurePanel {
+	background-image: url(//academic.oup.com/data/sitebuilderassetsoriginals/live/images/ajcn/ajcn_feature_panel.png);
+}
+.featurePanelInner {
+	background: rgba(0, 0, 0, 0.66);
+}
+.featurePanel h3, .featurePanel p, .featurePanel a, .featurePanel a:hover {
+	color: #f6f6f6 !important;
+}
+
+
+.widget-dynamic__underbar.journal-bg {
+	background-color: #a8303b;
+}
+
+
+.pg_index .location-main-content>.widget-dynamic>.widget-dynamic-inner-wrap>.widget-dynamic[data-count]:nth-child(4):not(.row-related-titles){
+	background-color: #a8303b;
+}
+.pg_index .location-main-content>.widget-dynamic>.widget-dynamic-inner-wrap>.widget-dynamic[data-count]:nth-child(4):not(.row-related-titles) .widget-dynamic__underbar.journal-bg{
+	background-color: #ffffff;
+}
+.pg_index .location-main-content>.widget-dynamic>.widget-dynamic-inner-wrap>.widget-dynamic[data-count]:nth-child(4):not(.row-related-titles) .widget-dynamic__header h3{
+	color: #ffffff;
+}
+
+
+.journal-header, .journal-footer {
+	border-top: 1px solid #cfd5e4;
+}
+.journal-footer {
+	border-bottom: 1px solid #cfd5e4;
+}
+
+
+.journal-footer.journal-bg {
+	background-color: #ffffff;
+}
+.journal-footer-menu a { 
+	color: #2a2a2a; 
+}
+.journal-footer-colophon { 
+	color: #2a2a2a; 
+}
+.journal-footer-colophon a { 
+	color: #2a2a2a; 
+}
+.journal-footer {
+	-webkit-font-smoothing: auto;
+}
+
+
+.society-links-logo img {
+	width: 200px;
+}
