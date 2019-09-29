@@ -11,9 +11,7 @@ coverAlt:
 demo: 
 categories:
   - exercise
-tags: 
-  - pushup
-  - shoulders
+tags:
 created_at: 2019-09-29 07:07
 updated_at: 2019-09-29 07:07
 meta:                                 # If you have cover image
@@ -23,4 +21,15 @@ meta:                                 # If you have cover image
     content: 
   - type:  
 ---
-## Pushups
+## Stretch name
+### Muscles
+### Synonyms
+### Equipment needed
+#### Alternatives
+### Description
+### Progressions
+#### Regressed versions (Progressions to get to this movement)
+#### Progressive versions
+### Cues
+### Links
+### Studies

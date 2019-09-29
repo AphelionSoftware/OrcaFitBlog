@@ -23,4 +23,14 @@ meta:                                 # If you have cover image
     content: 
   - type:  
 ---
-## Pushups
+## T-U-Diamond-Y
+### Muscles
+### Synonyms
+### Equipment needed
+- Bench
+#### Alternatives
+### Description
+### Progressions
+#### Regressed versions (Progressions to get to this movement)
+#### Progressive versions
+### Cues

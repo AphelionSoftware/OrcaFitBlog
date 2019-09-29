@@ -21,9 +21,9 @@ created_at: 2019-04-22 09:00
 updated_at: 2019-04-22 09:00
 meta:                                 # If you have cover image
   - property: og:image
-    content: /images/posts/my-first-post.png  
+    content:  
   - name: twitter:image
-    content: /images/posts/my-first-post.png 
+    content: 
 ---
 
 #### Very concise summary of what helps, and what doesn't in these 2 docs:

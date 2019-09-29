@@ -14,6 +14,8 @@ categories:
 tags: 
   - pushup
   - shoulders
+  - rhomboid
+  - 
 created_at: 2019-09-29 07:07
 updated_at: 2019-09-29 07:07
 meta:                                 # If you have cover image

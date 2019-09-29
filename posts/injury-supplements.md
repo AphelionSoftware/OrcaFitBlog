@@ -20,9 +20,9 @@ created_at: 2019-04-22 09:00
 updated_at: 2019-04-22 09:00
 meta:                                 # If you have cover image
   - property: og:image
-    content: /images/posts/my-first-post.png  
+    content:  
   - name: twitter:image
-    content: /images/posts/my-first-post.png 
+    content: 
 ---
 ## Recent updates
 * [The influence of oral arginine on frature healing (Full Text)](/documents/OralArginineFractureHealingAnimalStudy.pdf)

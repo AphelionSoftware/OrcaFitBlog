@@ -12,7 +12,7 @@ demo:
 categories:
   - exercise
 tags: 
-  - pushup
+  - rotator cuff
   - shoulders
 created_at: 2019-09-29 07:07
 updated_at: 2019-09-29 07:07
@@ -23,4 +23,13 @@ meta:                                 # If you have cover image
     content: 
   - type:  
 ---
-## Pushups
+## IR High
+### Muscles:
+  - Rhomboid
+  - Supraspinatus
+### Synonyms
+- Internal rotation - High
+### Equipment needed
+- Cable machine
+#### Alternatives
+- Thera band
