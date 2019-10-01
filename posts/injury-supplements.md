@@ -11,11 +11,13 @@ coverAlt:
 demo: 
 categories:
   - supplements
+  
 tags: 
   - hmb
   - arginine
   - glutamine
   - citrulline
+  
 created_at: 2019-04-22 09:00
 updated_at: 2019-04-22 09:00
 meta:                                 # If you have cover image
@@ -126,3 +128,6 @@ Dose response: A minimum of 100mg/kg bw was effective in rats [Dose-effect of di
 ### Glutamine
 ### HMB
 ### Citrulline
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjAwMzI5OTMwOV19
+-->
