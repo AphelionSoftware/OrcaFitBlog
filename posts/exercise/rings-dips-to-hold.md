@@ -25,6 +25,7 @@ meta:                                 # If you have cover image
 ### Muscles
 ### Synonyms
 ### Equipment needed
+- Gymnastic rings
 #### Alternatives
 ### Description
 ### Progressions

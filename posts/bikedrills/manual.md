@@ -10,7 +10,7 @@ cover: false                          # Leave false if the post does not have co
 coverAlt: 
 demo: 
 categories:
-  - exercise
+  - bikedrill
 tags: 
 created_at: 2019-09-29 07:07
 updated_at: 2019-09-29 07:07
@@ -21,20 +21,14 @@ meta:                                 # If you have cover image
     content: 
   - type:  
 ---
-## Exercise name
-### Muscles
+## Bike drill
+### Skills
 ### Synonyms
-### Equipment needed
-- Pullup bar
-- Heart rate monitore
 #### Alternatives
 ### Description
-- Pullups til failure
-- Rest til heart rate hits (--TOO: 10% below base) 100 bpm
-- Pullups til failure
-- Repeat til you can no longer do a single pullup
-- Switch to chinups and do same progression
 ### Progressions
 #### Regressed versions (Progressions to get to this movement)
 #### Progressive versions
 ### Cues
+### Links
+### Studies

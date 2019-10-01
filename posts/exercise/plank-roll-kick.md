@@ -25,15 +25,9 @@ meta:                                 # If you have cover image
 ### Muscles
 ### Synonyms
 ### Equipment needed
-- Pullup bar
-- Heart rate monitore
 #### Alternatives
 ### Description
-- Pullups til failure
-- Rest til heart rate hits (--TOO: 10% below base) 100 bpm
-- Pullups til failure
-- Repeat til you can no longer do a single pullup
-- Switch to chinups and do same progression
+
 ### Progressions
 #### Regressed versions (Progressions to get to this movement)
 #### Progressive versions

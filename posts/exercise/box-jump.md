@@ -31,3 +31,5 @@ meta:                                 # If you have cover image
 #### Regressed versions (Progressions to get to this movement)
 #### Progressive versions
 ### Cues
+### Links
+### Studies
