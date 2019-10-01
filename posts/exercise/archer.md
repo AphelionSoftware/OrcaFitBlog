@@ -11,6 +11,7 @@ coverAlt:
 demo: 
 categories:
   - exercise
+ 
 tags: 
 created_at: 2019-09-29 07:07
 updated_at: 2019-09-29 07:07
@@ -34,3 +35,6 @@ meta:                                 # If you have cover image
 ### Cues
 ### Links
 ### Studies
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTExMTc0NDUzNzldfQ==
+-->
